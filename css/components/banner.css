@@ -5,11 +5,12 @@
 }
 
 .banner h1 {
-  color: #00adcb;
+  color: #ffd100;
 }
 
 .banner p {
   color: white;
   font-size: white;
   opacity: .9;
+  font-size: 20px;
 }
